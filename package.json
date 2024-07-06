@@ -1,0 +1,20 @@
+{
+  "name": "4df-student-management",
+  "version": "1.0.1",
+  "description": "This is a student management program with Typescript and Node.js",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nazia",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
